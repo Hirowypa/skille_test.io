@@ -156,7 +156,7 @@ nav{
     background-color: #43b35b;
     font-size: 1.2rem;
     transition: 0.5s;
-    
+    border-radius: 0;
 
 }
 .input-gp .go-btn:hover{
@@ -742,9 +742,7 @@ nav{
     .img-text span{
         padding: 0px 5px;
     }
-    .input-gp{
-       
-    }
+
     .input-gp .go-btn{
         padding: 31px 31px;
     }
