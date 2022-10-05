@@ -135,6 +135,7 @@ nav{
 .input-gp{
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     background-color: rgb(255, 255, 255);
+    border-radius: 0;
     position: relative;
     left: 80px;
     bottom: 15px;
